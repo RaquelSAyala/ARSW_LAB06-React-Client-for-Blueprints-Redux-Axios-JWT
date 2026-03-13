@@ -41,28 +41,28 @@ Después, podrás ver mi aplicación en [http://localhost:5173](http://localhost
 
 ### 1. Mi Sistema de Autenticación JWT
 Aquí muestro cómo funciona mi formulario de login y el acceso exitoso que he configurado.
-![Login Evidence](img/login.png)
+![Login Evidence](img/login_1.png)
 
 ### 2. Mi Buscador y Listado de Planos
 En esta imagen demuestro cómo mi buscador filtra resultados por autor (como `john`) y cómo mi tabla se actualiza dinámicamente.
-![Search Evidence](./img/search.png)
+![Search Evidence](img/search.png)
 
 ### 3. Mi Canvas de Visualización y Dibujo Interactivo
 Aquí presento mi lienzo de dibujo donde puedo visualizar un plano y añadir puntos nuevos en tiempo real haciendo clic con mi mouse.
-![Canvas Evidence](./img/canvas.png)
+![Canvas Evidence](img/canvas.png)
 
 ### 4. Mi Proceso de Guardado 
 He capturado el momento en que guardo mis cambios. Aquí se puede ver mi mensaje de éxito "Blueprint saved successfully!" tras interactuar con el botón "Save Blueprint".
-![Save Success](./img/save_success.png)
+![Save Success](img/save_success.png)
 
 ### 5. Mi Seguridad de Capa de Red
 Aquí evidencio que todas mis peticiones al servidor viajan seguras con el encabezado `Authorization: Bearer <TOKEN>` que he implementado.
-![JWT Header](./img/jwt_header.png)
+![JWT Header](img/jwt_header.png)
 
 ### 6. Mis Pruebas Automatizadas
 Para asegurar la calidad de mi código, he ejecutado tests tanto en el frontend como en el backend.
-- **Frontend (Vitest)**: ![Tests Frontend](./img/test_frontend.png)
-- **Backend (Junit)**: ![Tests Backend](./img/test_backend.png)
+- **Frontend (Vitest)**: ![Tests Frontend](img/test_frontend.png)
+- **Backend (Junit)**: ![Tests Backend](img/test_backend.png)
 
 ---
 
