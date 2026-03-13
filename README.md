@@ -43,6 +43,10 @@ Después, podrás ver mi aplicación en [http://localhost:5173](http://localhost
 Aquí muestro cómo funciona mi formulario de login y el acceso exitoso que he configurado.
 ![Login Evidence](img/login_1.png)
 
+![Login Evidence](img/login_2.png)
+
+![Login Evidence](img/login_2.png)
+
 ### 2. Mi Buscador y Listado de Planos
 En esta imagen demuestro cómo mi buscador filtra resultados por autor (como `john`) y cómo mi tabla se actualiza dinámicamente.
 ![Search Evidence](img/search.png)
