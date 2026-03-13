@@ -41,6 +41,8 @@ Después, podrás ver mi aplicación en [http://localhost:5173](http://localhost
 
 ### 1. Mi Sistema de Autenticación JWT
 Aquí muestro cómo funciona mi formulario de login y el acceso exitoso que he configurado.
+![Login Evidence](img/login_1.png)
+![Login Evidence](img/login_2.png)
 ![Login Evidence](img/login_2.png)
 
 
